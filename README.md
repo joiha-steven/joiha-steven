@@ -1,12 +1,48 @@
-# Steven Tran (Trần Mạnh Hùng)
+<div align="center">
 
-I make small things you can hold. Keycaps, trays, tiny cast landscapes. Somewhere along the way I also started making software, which surprised me more than anyone.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Steven Tran, Trần Mạnh Hùng. Artisan keycaps, small objects, software made with AI" width="820">
+</picture>
 
-## What I run
+<br/>
 
-**[Jelly Key](https://jellykey.com)** is my keycap studio. We sculpt, mold, cast and hand paint miniature worlds that end up sitting on somebody's keyboard. Coral reefs, cyberpunk alleys, tiny sleeping cats. Every piece is finished by hand, so no two are exactly alike.
+[![Jelly Key](https://img.shields.io/badge/Jelly_Key-C8873A?style=for-the-badge&logoColor=white)](https://www.jellykey.com)
+[![Jelly Smith](https://img.shields.io/badge/Jelly_Smith-2F5D62?style=for-the-badge&logoColor=white)](https://jellysmith.com)
 
-**[Jelly Smith](https://jellysmith.com)** is the workbench next door. Small batch EDC objects: valet trays, beads, charms, beam stands. Same hands, same obsession with finish, different shelf.
+<br/>
+
+I make small things you can hold. Keycaps, trays, tiny cast landscapes.<br/>
+Somewhere along the way I also started making software, which surprised me more than anyone.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Jelly Key](https://www.jellykey.com)
+
+My keycap studio. We sculpt, mold, cast and hand paint miniature worlds that end up sitting on somebody's keyboard. Coral reefs, cyberpunk alleys, tiny sleeping cats.
+
+Every piece is finished by hand, so no two are exactly alike.
+
+</td>
+<td width="50%" valign="top">
+
+### [Jelly Smith](https://jellysmith.com)
+
+The workbench next door. Small batch EDC objects: valet trays, beads, charms, beam stands.
+
+Same hands, same obsession with finish, different shelf.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## About the code in here
 
@@ -16,18 +52,60 @@ What changed is that I can now describe what I want, work with an AI until the t
 
 So everything here started the same way: something my own shops needed, built because nobody was going to build it for me. If it happens to be useful to you too, take it.
 
+<br/>
+
 ## Things I have made
 
-| Project | What it is |
-| --- | --- |
-| [quireink](https://github.com/joiha-steven/quireink) | A self hosted blog for one person. One Bun process, two SQLite files, no cloud account anywhere in the path. It ships an MCP server, so an AI agent can write and publish straight into it. |
-| [torch-wiki](https://github.com/joiha-steven/torch-wiki) | A community reference database for flashlight collectors. Full specs, images, reviews, release history. No ads, no fees, no login wall. |
-| [quireink-wordpress-theme](https://github.com/joiha-steven/quireink-wordpress-theme) | The Quire Ink reading surface, ported to WordPress and generated from Quire Ink's own stylesheet emitters. |
-| [unraid-templates](https://github.com/joiha-steven/unraid-templates) | Docker templates so Quire Ink installs on an Unraid box in a couple of clicks. |
+<table>
+<tr>
+<td width="30%" valign="top">
 
-Fair warning: these are built by someone who reads results, not source. They work because I use them every day on real sites, not because I reviewed every line. Issues and pull requests are genuinely welcome, and you will probably understand my code better than I do.
+**[quireink](https://github.com/joiha-steven/quireink)**
+
+![stars](https://img.shields.io/github/stars/joiha-steven/quireink?style=flat-square&label=%E2%98%85&color=C8873A)
+
+</td>
+<td valign="top">
+
+A self hosted blog for one person. One Bun process, two SQLite files, no cloud account anywhere in the path. It ships an MCP server, so an AI agent can write and publish straight into it.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[torch-wiki](https://github.com/joiha-steven/torch-wiki)**
+
+![stars](https://img.shields.io/github/stars/joiha-steven/torch-wiki?style=flat-square&label=%E2%98%85&color=C8873A)
+
+</td>
+<td valign="top">
+
+A community reference database for flashlight collectors. Full specs, images, reviews, release history. No ads, no fees, no login wall.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[quireink-wordpress-theme](https://github.com/joiha-steven/quireink-wordpress-theme)**
+
+</td>
+<td valign="top">
+
+The Quire Ink reading surface, ported to WordPress and generated from Quire Ink's own stylesheet emitters.
+
+</td>
+</tr>
+</table>
+
+> **Fair warning.** These are built by someone who reads results, not source. They work because I use them every day on real sites, not because I reviewed every line. Issues and pull requests are genuinely welcome, and you will probably understand my code better than I do.
+
+<br/>
 
 ## What the projects run on
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
@@ -36,13 +114,18 @@ Fair warning: these are built by someone who reads results, not source. They wor
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</div>
+
+<br/>
+
 ## Thank you
 
 A real thank you to [Claude Code](https://claude.com/claude-code). Every repository on this profile exists because of it. Ideas I had been carrying around for years, quietly assuming they were out of reach for someone who cannot code, turned into working software that other people now run on their own machines.
 
 Making open source turned out to be fun. I did not expect that part.
 
-## Say hello
+<br/>
 
-- Keycaps: [jellykey.com](https://jellykey.com)
-- EDC and small objects: [jellysmith.com](https://jellysmith.com)
+<div align="center">
+<sub>Keycaps at <a href="https://www.jellykey.com">jellykey.com</a> · Small objects at <a href="https://jellysmith.com">jellysmith.com</a></sub>
+</div>
