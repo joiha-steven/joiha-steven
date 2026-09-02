@@ -1,9 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Steven Tran, Trần Mạnh Hùng. Artisan keycaps, small objects, software made with AI" width="820">
-</picture>
+# Steven Tran
+
+<sub>T R Ầ N &nbsp; M Ạ N H &nbsp; H Ù N G</sub>
+
+<sub>Artisan keycaps · Small objects · Software made with AI</sub>
 
 <br/>
 
