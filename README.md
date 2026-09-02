@@ -61,6 +61,18 @@ The Quire Ink reading surface, ported to WordPress and generated from Quire Ink'
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+**[quireink-ghost-theme](https://github.com/joiha-steven/quireink-ghost-theme)**
+
+</td>
+<td valign="top">
+
+The same reading surface again, this time on Ghost. Generated the same way from the same stylesheet, so the blog and both themes stay in step instead of slowly drifting apart.
+
+</td>
+</tr>
 </table>
 
 > **Fair warning.** These are built by someone who reads results, not source. They work because I use them every day on real sites, not because I reviewed every line. Issues and pull requests are genuinely welcome, and you will probably understand my code better than I do.
@@ -75,6 +87,7 @@ The Quire Ink reading surface, ported to WordPress and generated from Quire Ink'
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
