@@ -1,49 +1,12 @@
-<div align="center">
+# Steven Tran (Trần Mạnh Hùng)
 
-# Steven Tran
+I make small things you can hold. Keycaps, trays, tiny cast landscapes. Somewhere along the way I also started making software, which surprised me more than anyone.
 
-<sub>T R Ầ N &nbsp; M Ạ N H &nbsp; H Ù N G</sub>
+## What I run
 
-<sub>Artisan keycaps · Small objects · Software made with AI</sub>
+**[Jelly Key](https://www.jellykey.com)** is my keycap studio. We sculpt, mold, cast and hand paint miniature worlds that end up sitting on somebody's keyboard. Coral reefs, cyberpunk alleys, tiny sleeping cats. Every piece is finished by hand, so no two are exactly alike.
 
-<br/>
-
-[![Jelly Key](https://img.shields.io/badge/Jelly_Key-C8873A?style=for-the-badge&logoColor=white)](https://www.jellykey.com)
-[![Jelly Smith](https://img.shields.io/badge/Jelly_Smith-2F5D62?style=for-the-badge&logoColor=white)](https://jellysmith.com)
-
-<br/>
-
-I make small things you can hold. Keycaps, trays, tiny cast landscapes.<br/>
-Somewhere along the way I also started making software, which surprised me more than anyone.
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Jelly Key](https://www.jellykey.com)
-
-My keycap studio. We sculpt, mold, cast and hand paint miniature worlds that end up sitting on somebody's keyboard. Coral reefs, cyberpunk alleys, tiny sleeping cats.
-
-Every piece is finished by hand, so no two are exactly alike.
-
-</td>
-<td width="50%" valign="top">
-
-### [Jelly Smith](https://jellysmith.com)
-
-The workbench next door. Small batch EDC objects: valet trays, beads, charms, beam stands.
-
-Same hands, same obsession with finish, different shelf.
-
-</td>
-</tr>
-</table>
-
-<br/>
+**[Jelly Smith](https://jellysmith.com)** is the workbench next door. Small batch EDC objects: valet trays, beads, charms, beam stands. Same hands, same obsession with finish, different shelf.
 
 ## About the code in here
 
