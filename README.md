@@ -8,17 +8,49 @@ I make small things you can hold, mostly keycaps and desk trays. Lately I also m
 
 ## About the code
 
-I never learned to program, and I still can't read most of what is in these repos. I describe what I want, build it with Claude Code, then use it every day and say what feels wrong. Everything here started as something my own shops needed.
+I never learned to program, and I still can't read most of what is in these repos. I describe what I want, build it with Claude Code, then use it every day and say what feels wrong. Everything here started as something my own shops, or my own hobbies, needed.
 
 ## Projects
 
-- **[quireink](https://github.com/joiha-steven/quireink)**: a blog you host yourself. One Bun process, two SQLite files, no cloud account. An AI agent can write and publish to it through its MCP server.
-- **[torch-wiki](https://github.com/joiha-steven/torch-wiki)**: a reference database for flashlight collectors, with specs, photos, reviews and release history. No ads, no login.
-- **[plumemu](https://github.com/joiha-steven/plumemu)**: a light launcher for Android retro handhelds. A 3.8 MB download that opens a 10,000 game library in 0.2 s. Still alpha, tested on the AYN Thor. Not open source. The repo is for releases and bug reports.
-- **[quireink-wordpress-theme](https://github.com/joiha-steven/quireink-wordpress-theme)** and **[quireink-ghost-theme](https://github.com/joiha-steven/quireink-ghost-theme)**: the Quire Ink reading page on WordPress and Ghost. Both are generated from Quire Ink's own stylesheet, so the three never drift apart.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://quireink.com"><img src="images/quireink.jpg" alt="The Quire Ink front page: typeset articles in a calm, bookish layout" width="100%"></a>
+<h3><a href="https://github.com/joiha-steven/quireink">Quire Ink</a></h3>
+A blog you host yourself. One Bun process, two SQLite files, no cloud account. An AI agent can write and publish to it through its MCP server.
+<br><br>
+<a href="https://quireink.com">Try it</a> · <a href="https://github.com/joiha-steven/quireink">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://torch.edc.wiki"><img src="images/torch-wiki.jpg" alt="torch.edc.wiki: a grid of flashlights with filters for brand, lumens, price and category" width="100%"></a>
+<h3><a href="https://github.com/joiha-steven/torch-wiki">torch-wiki</a></h3>
+A reference database for flashlight collectors, with specs, photos, reviews and release history. No ads, no login.
+<br><br>
+<a href="https://torch.edc.wiki">Try it</a> · <a href="https://github.com/joiha-steven/torch-wiki">Source</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://flux-rc.stevensdesk.com"><img src="images/flux-rc.jpg" alt="flux-rc on desktop and phone: a grid of flashlight modes with brightness and power" width="100%"></a>
+<h3><a href="https://github.com/joiha-steven/flux-rc">flux-rc</a></h3>
+Programs flashlights with a Lux-RC light engine. Pick your modes, hold the light to the screen, and a flashing square does the rest. One static page, nothing leaves your browser.
+<br><br>
+<a href="https://flux-rc.stevensdesk.com">Try it</a> · <a href="https://github.com/joiha-steven/flux-rc">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://plumemu.stevensdesk.com"><img src="images/plumemu.jpg" alt="plumemu: a Super Nintendo game list with cover art and details" width="100%"></a>
+<h3><a href="https://github.com/joiha-steven/plumemu">plumemu</a></h3>
+A light launcher for Android retro handhelds. A 3.8 MB download that opens a 10,000 game library in 0.2 s. Still alpha. Not open source; the repo is for releases and bug reports.
+<br><br>
+<a href="https://plumemu.stevensdesk.com">Try it</a> · <a href="https://github.com/joiha-steven/plumemu/releases">Releases</a>
+</td>
+</tr>
+</table>
+
+**Quire Ink, elsewhere.** The same reading page also ships as a [WordPress theme](https://github.com/joiha-steven/quireink-wordpress-theme) and a [Ghost theme](https://github.com/joiha-steven/quireink-ghost-theme), both generated from Quire Ink's own stylesheet so the three never drift apart. There is also a [WordPress plugin](https://github.com/joiha-steven/quireink-wordpress-plugin) for hand-drawn highlights, and a [theme starter](https://github.com/joiha-steven/quireink-theme-starter) if you want to make your own.
 
 I judge these by how they behave, not by reading the source. They run on my own sites every day. Issues and pull requests are welcome, and you will probably understand the code better than I do.
 
 Thanks to [Claude Code](https://claude.com/claude-code). None of these repos would exist without it. Making open source turned out to be fun, which I did not expect.
 
-<sub>Keycaps at [jellykey.com](https://www.jellykey.com) · Small objects at [jellysmith.com](https://jellysmith.com)</sub>
+<sub>Keycaps at [jellykey.com](https://www.jellykey.com) · Small objects at [jellysmith.com](https://jellysmith.com) · Notes at [stevensdesk.com](https://stevensdesk.com)</sub>
