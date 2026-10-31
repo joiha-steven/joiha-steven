@@ -17,32 +17,25 @@ I never learned to program, and I still can't read most of what is in these repo
 <td width="50%" valign="top">
 <a href="https://quireink.com"><img src="images/quireink.jpg" alt="The Quire Ink front page: typeset articles in a calm, bookish layout" width="100%"></a>
 <h3><a href="https://github.com/joiha-steven/quireink">Quire Ink</a></h3>
-A blog you host yourself. One Bun process, two SQLite files, no cloud account. An AI agent can write and publish to it through its MCP server.
-<br><br>
-<a href="https://quireink.com">Try it</a> · <a href="https://github.com/joiha-steven/quireink">Source</a>
+A blog you host yourself, on a small server or on Cloudflare. An AI agent can write and publish to it.
 </td>
 <td width="50%" valign="top">
 <a href="https://torch.edc.wiki"><img src="images/torch-wiki.jpg" alt="torch.edc.wiki: a grid of flashlights with filters for brand, lumens, price and category" width="100%"></a>
 <h3><a href="https://github.com/joiha-steven/torch-wiki">torch-wiki</a></h3>
-A reference database for flashlight collectors, with specs, photos, reviews and release history. No ads, no login.
-<br><br>
-<a href="https://torch.edc.wiki">Try it</a> · <a href="https://github.com/joiha-steven/torch-wiki">Source</a>
+A reference database for flashlight collectors: specs, photos, reviews and release history. No ads.
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://flux-rc.stevensdesk.com"><img src="images/flux-rc.jpg" alt="flux-rc on desktop and phone: a grid of flashlight modes with brightness and power" width="100%"></a>
 <h3><a href="https://github.com/joiha-steven/flux-rc">flux-rc</a></h3>
-Programs flashlights with a Lux-RC light engine. Pick your modes, hold the light to the screen, and a flashing square does the rest. One static page, nothing leaves your browser.
-<br><br>
-<a href="https://flux-rc.stevensdesk.com">Try it</a> · <a href="https://github.com/joiha-steven/flux-rc">Source</a>
+Programs Lux-RC flashlight drivers from a web page. Pick your modes, then hold the light to the screen.
 </td>
 <td width="50%" valign="top">
 <a href="https://plumemu.stevensdesk.com"><img src="images/plumemu.jpg" alt="plumemu: a Super Nintendo game list with cover art and details" width="100%"></a>
 <h3><a href="https://github.com/joiha-steven/plumemu">plumemu</a></h3>
-A light launcher for Android retro handhelds. A 3.8 MB download that opens a 10,000 game library in 0.2 s. Still alpha. Not open source; the repo is for releases and bug reports.
-<br><br>
-<a href="https://plumemu.stevensdesk.com">Try it</a> · <a href="https://github.com/joiha-steven/plumemu/releases">Releases</a>
+A light launcher for Android retro handhelds. Opens a 10,000 game library in 0.2 s. Still alpha.
 </td>
 </tr>
 </table>
